@@ -1,0 +1,7 @@
+streamlit
+phidata
+openai
+pdfplumber
+python-docx
+google-generativeai
+duckduckgo-search
